@@ -22,4 +22,4 @@ source ml-env/bin/activate
 pip install numpy pandas scikit-learn matplotlib
 pip freeze > /root/code/requirements.txt
 
-echo "MLOps Day 1 Task Completed!"
+

@@ -18,4 +18,4 @@ sudo useradd -s /sbin/nologin anita
 # Verification step (optional)
 # grep anita /etc/passwd
 
-echo "DevOps Day 1 Task Completed!"
+

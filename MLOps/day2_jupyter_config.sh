@@ -22,6 +22,7 @@ mkdir -p /root/notebooks/
 # 2. Activate the virtual environment and install missing dependencies
 source /root/code/ml-env/bin/activate
 pip install notebook
+deactivate
 
 # 3. Fix the config file
 cat <<EOF > /root/code/jupyter_lab_config.py
@@ -34,6 +35,5 @@ c.ServerApp.allow_root = True
 EOF
 
 # 4. Start Jupyter Lab (Runs in foreground; for scripts you might use &)
-jupyter lab --config /root/code/jupyter_lab_config.py
+/root/code/ml-env/bin/jupyter lab --config /root/code/jupyter_lab_config.py
 
-echo "MLOps Day 2 Task Completed!"
