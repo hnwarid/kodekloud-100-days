@@ -16,7 +16,7 @@ To consistently solve real-world infrastructure, automation, and machine learnin
 | :---: | :--- | :--- |
 | 1 | Linux User Setup with Non-Interactive Shell | [✅ Script](./DevOps/day1_non_interactive_user.sh) |
 | 2 | Temporary User Setup with Expiry | [✅ Script](./DevOps/day2_user_expiry.sh) |
-| 3 | Secure Root SSH Access | - |
+| 3 | Secure Root SSH Access | [✅ Script](./DevOps/day3_secure_ssh.sh) |
 | 4 | Script Execution Permissions | - |
 | 5 | SElinux Installation and Configuration | - |
 | 6 | Create a Cron Job | - |
@@ -120,7 +120,7 @@ To consistently solve real-world infrastructure, automation, and machine learnin
 | :---: | :--- | :--- |
 | 1 | Create a Python Virtual Environment for ML | [✅ Script](./MLOps/day1_ml_env.sh) |
 | 2 | Fix a Broken JupyterLab Server Configuration | [✅ Script](./MLOps/day2_jupyter_config.sh) |
-| 3 | Fix a Broken uv Lockfile Specification | - |
+| 3 | Fix a Broken uv Lockfile Specification | [✅ Script](./MLOps/day3_uv_lockfile.sh) |
 | 4 | Add a .gitignore and Untrack Committed Artifacts | - |
 | 5 | Fix a Broken ML Workflow Makefile | - |
 | 6 | Fix a Broken Ruff and Black Configuration | - |
