@@ -11,14 +11,17 @@ To consistently solve real-world infrastructure, automation, and machine learnin
 
 ## 📜 Log
 
-### DevOps Path
+<details>
+<summary><b>🛠️ DevOps Path (5/100 Completed)</b></summary>
+<br>
+
 | Day | Task | Solution |
 | :---: | :--- | :--- |
 | 1 | Linux User Setup with Non-Interactive Shell | [✅ Script](./DevOps/day1_non_interactive_user.sh) |
 | 2 | Temporary User Setup with Expiry | [✅ Script](./DevOps/day2_user_expiry.sh) |
 | 3 | Secure Root SSH Access | [✅ Script](./DevOps/day3_secure_ssh.sh) |
 | 4 | Script Execution Permissions | [✅ Script](./DevOps/day4_script_permissions.sh) |
-| 5 | SElinux Installation and Configuration | - |
+| 5 | SElinux Installation and Configuration | [✅ Script](./DevOps/day5_selinux_config.sh) |
 | 6 | Create a Cron Job | - |
 | 7 | Linux SSH Authentication | - |
 | 8 | Install Ansible | - |
@@ -115,14 +118,19 @@ To consistently solve real-world infrastructure, automation, and machine learnin
 | 99 | Attach IAM Policy for DynamoDB Access Using Terraform | - |
 | 100 | Create and Configure Alarm Using CloudWatch Using Terraform | - |
 
-### MLOps Path
+</details>
+
+<details>
+<summary><b>🤖 MLOps Path (5/100 Completed)</b></summary>
+<br>
+
 | Day | Task | Solution |
 | :---: | :--- | :--- |
 | 1 | Create a Python Virtual Environment for ML | [✅ Script](./MLOps/day1_ml_env.sh) |
 | 2 | Fix a Broken JupyterLab Server Configuration | [✅ Script](./MLOps/day2_jupyter_config.sh) |
 | 3 | Fix a Broken uv Lockfile Specification | [✅ Script](./MLOps/day3_uv_lockfile.sh) |
 | 4 | Add a .gitignore and Untrack Committed Artifacts | [✅ Script](./MLOps/day4_gitignore.sh) |
-| 5 | Fix a Broken ML Workflow Makefile | - |
+| 5 | Fix a Broken ML Workflow Makefile | [✅ Script](./MLOps/day5_makefile.sh) |
 | 6 | Fix a Broken Ruff and Black Configuration | - |
 | 7 | Test and Package the Fraud-Detection Module | - |
 | 8 | Fix a Broken pre-commit Configuration | - |
@@ -218,3 +226,5 @@ To consistently solve real-world infrastructure, automation, and machine learnin
 | 98 | Capstone (2/4): Monitoring and Automated Retraining | - |
 | 99 | Capstone (3/4): GitOps Continuous Deployment with ArgoCD | - |
 | 100 | Capstone (4/4): Close the Loop with Prometheus + Grafana Observability | - |
+
+</details>
