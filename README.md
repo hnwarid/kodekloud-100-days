@@ -12,7 +12,7 @@ To consistently solve real-world infrastructure, automation, and machine learnin
 ## 📜 Log
 
 <details>
-<summary><b>🛠️ DevOps Path (5/100 Completed)</b></summary>
+<summary><b>🛠️ DevOps Path (6/100 Completed)</b></summary>
 <br>
 
 | Day | Task | Solution |
@@ -22,7 +22,7 @@ To consistently solve real-world infrastructure, automation, and machine learnin
 | 3 | Secure Root SSH Access | [✅ Script](./DevOps/day3_secure_ssh.sh) |
 | 4 | Script Execution Permissions | [✅ Script](./DevOps/day4_script_permissions.sh) |
 | 5 | SElinux Installation and Configuration | [✅ Script](./DevOps/day5_selinux_config.sh) |
-| 6 | Create a Cron Job | - |
+| 6 | Create a Cron Job | [✅ Script](./DevOps/day6_cron_job.sh) |
 | 7 | Linux SSH Authentication | - |
 | 8 | Install Ansible | - |
 | 9 | MariaDB Troubleshooting | - |
@@ -121,7 +121,7 @@ To consistently solve real-world infrastructure, automation, and machine learnin
 </details>
 
 <details>
-<summary><b>🤖 MLOps Path (5/100 Completed)</b></summary>
+<summary><b>🤖 MLOps Path (6/100 Completed)</b></summary>
 <br>
 
 | Day | Task | Solution |
@@ -131,7 +131,7 @@ To consistently solve real-world infrastructure, automation, and machine learnin
 | 3 | Fix a Broken uv Lockfile Specification | [✅ Script](./MLOps/day3_uv_lockfile.sh) |
 | 4 | Add a .gitignore and Untrack Committed Artifacts | [✅ Script](./MLOps/day4_gitignore.sh) |
 | 5 | Fix a Broken ML Workflow Makefile | [✅ Script](./MLOps/day5_makefile.sh) |
-| 6 | Fix a Broken Ruff and Black Configuration | - |
+| 6 | Fix a Broken Ruff and Black Configuration | [✅ Script](./MLOps/day6_ruff_black_config.sh) |
 | 7 | Test and Package the Fraud-Detection Module | - |
 | 8 | Fix a Broken pre-commit Configuration | - |
 | 9 | Fix a Broken Cookiecutter Template for ML Projects | - |
