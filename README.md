@@ -12,7 +12,7 @@ To consistently solve real-world infrastructure, automation, and machine learnin
 ## 📜 Log
 
 <details>
-<summary><b>🛠️ DevOps Path (7/100 Completed)</b></summary>
+<summary><b>🛠️ DevOps Path (9/100 Completed)</b></summary>
 <br>
 
 | Day | Task | Solution |
@@ -24,8 +24,8 @@ To consistently solve real-world infrastructure, automation, and machine learnin
 | 5 | SElinux Installation and Configuration | [✅ Script](./DevOps/day5_selinux_config.sh) |
 | 6 | Create a Cron Job | [✅ Script](./DevOps/day6_cron_job.sh) |
 | 7 | Linux SSH Authentication | [✅ Script](./DevOps/day7_ssh_auth.sh) |
-| 8 | Install Ansible | - |
-| 9 | MariaDB Troubleshooting | - |
+| 8 | Install Ansible | [✅ Script](./DevOps/day8_install_ansible.sh) |
+| 9 | MariaDB Troubleshooting | [✅ Script](./DevOps/day9_mariadb_troubleshooting.sh) |
 | 10 | Linux Bash Scripts | - |
 | 11 | Install and Configure Tomcat Server | - |
 | 12 | Linux Network Services | - |
@@ -121,7 +121,7 @@ To consistently solve real-world infrastructure, automation, and machine learnin
 </details>
 
 <details>
-<summary><b>🤖 MLOps Path (7/100 Completed)</b></summary>
+<summary><b>🤖 MLOps Path (9/100 Completed)</b></summary>
 <br>
 
 | Day | Task | Solution |
@@ -133,8 +133,8 @@ To consistently solve real-world infrastructure, automation, and machine learnin
 | 5 | Fix a Broken ML Workflow Makefile | [✅ Script](./MLOps/day5_makefile.sh) |
 | 6 | Fix a Broken Ruff and Black Configuration | [✅ Script](./MLOps/day6_ruff_black_config.sh) |
 | 7 | Test and Package the Fraud-Detection Module | [✅ Script](./MLOps/day7_test_and_package.sh) |
-| 8 | Fix a Broken pre-commit Configuration | - |
-| 9 | Fix a Broken Cookiecutter Template for ML Projects | - |
+| 8 | Fix a Broken pre-commit Configuration | [✅ Script](./MLOps/day8_pre_commit_config.sh) |
+| 9 | Fix a Broken Cookiecutter Template for ML Projects | [✅ Script](./MLOps/day9_cookiecutter_template.sh) |
 | 10 | Initialize DVC in an Existing Git Repository | - |
 | 11 | Track a Dataset with DVC | - |
 | 12 | Fix a Broken DVC Remote and Push to SeaweedFS | - |
